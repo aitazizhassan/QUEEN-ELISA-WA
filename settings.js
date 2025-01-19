@@ -39,7 +39,7 @@ module.exports = {
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
   STICKER_PACK: 'HÄSSÄN-ÖVÏÇ',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90, //size in MB
+  MAXIMUM_FILESIZE: false, //size in MB
   OWNER_R_EMOJI: '💻',
   ALIVE_AS_GIF: false,//this only work for short videos
   AUTO_VOICE: true,
